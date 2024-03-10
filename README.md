@@ -4,6 +4,15 @@
 
 This project implements a simple API for hosting machine learning models using Flask, a popular web framework in Python. The primary purpose is to showcase how to create an API endpoint for making predictions based on a trained machine learning model. In this example, we've used a Polynomial Regression model for demonstration purposes.
 
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![Flask](https://img.shields.io/badge/flask-2.0.1-blue.svg)](https://pypi.org/project/Flask/)
+[![NumPy](https://img.shields.io/badge/numpy-1.21.0-blue.svg)](https://pypi.org/project/numpy/)
+[![Pandas](https://img.shields.io/badge/pandas-1.3.0-blue.svg)](https://pypi.org/project/pandas/)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-0.24.2-blue.svg)](https://pypi.org/project/scikit-learn/)
+[![Requests](https://img.shields.io/badge/requests-2.26.0-blue.svg)](https://pypi.org/project/requests/)
+[![Waitress](https://img.shields.io/badge/waitress-2.1.0-blue.svg)](https://pypi.org/project/waitress/)
+
+
 ## Project Structure
 
 ### Code
